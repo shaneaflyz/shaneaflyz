@@ -10,7 +10,8 @@ My passion lies in programming software tailored to the backend and exploring di
 
 In my graduate studies, I’ve taken on various leadership roles, including mentoring my peers, student representative of my course and assisting scouts in my free time.
 
-I have graduated and I'm interested in full-time in any IT related roles which can help further develop my skills and asset as I truly am keen on increasing my knowledge. Please feel free to get in touch with me via my socials!
+I have graduated and I'm interested in full-time in any IT related roles which can help further develop my skills and asset as I truly am keen on increasing my knowledge. Please feel free to get in touch with me 
+via my socials!
 
 - 🔭 I’m currently working on creating more projects! 
 - 📫 How to reach me: shaneaflyz@gmail.com

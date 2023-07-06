@@ -2,7 +2,7 @@
 
 # Shane Aflyz / Computer Science Graduate
 
-<img align="right" alt="Coding" width="245" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+<img align="right" alt="Coding" width="255" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
 I am an aspiring computer science graduate who enjoys coding! I have strong technical skills and an academic background in programming, networking, and data analysis.
 

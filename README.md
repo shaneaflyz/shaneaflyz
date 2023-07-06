@@ -1,7 +1,7 @@
 ![Computer Science Graduate](https://github.com/shaneaflyz/shaneaflyz/blob/main/1625465190419.jpg)
 
-### Hi there 👋, I'm Shane
-#### Computer Science Graduate
+# Hi there 👋, I'm Shane
+## Computer Science Graduate
 
 I am an aspiring computer science graduate who enjoys coding! I have strong technical skills and an academic background in programming, networking, and data analysis.
 
@@ -11,11 +11,13 @@ In my graduate studies, I’ve taken on various leadership roles, including ment
 
 I have graduated and I'm interested in full-time in any IT related roles which can help further develop my skills and asset as I truly am keen on increasing my knowledge. Please feel free to get in touch with me via my socials!
 
-Skills: Python/Java/C++/C#/MySQL
+## Skills and Experience
+
+* 👨‍💻 C++, C#, Pyhton, Java
+* 📊 MySQL
 
 - 🔭 I’m currently working on creating more projects! 
 - 📫 How to reach me: shaneaflyz@gmail.com 
-- 😄 Pronouns: He/Him 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shaneaflyz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shaneaflyz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shaneaflyz/)  

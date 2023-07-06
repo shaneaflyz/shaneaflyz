@@ -1,7 +1,6 @@
 ![Computer Science Graduate](https://github.com/shaneaflyz/shaneaflyz/blob/main/1625465190419.jpg)
 
-# Hi there 👋, I'm Shane
-## Computer Science Graduate
+# Shane Aflyz / Computer Science Graduate
 
 I am an aspiring computer science graduate who enjoys coding! I have strong technical skills and an academic background in programming, networking, and data analysis.
 

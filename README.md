@@ -1,4 +1,4 @@
-![Computer Science Graduate](https://media.licdn.com/dms/image/C4D16AQEYroJY1fLe_Q/profile-displaybackgroundimage-shrink_350_1400/0/1625465190419?e=1694044800&v=beta&t=jaBwgDv50rTiWQUbPDbYC88XU0vH4nBNynbSI69ngOc)
+![Computer Science Graduate](https://github.com/shaneaflyz/shaneaflyz/blob/main/1625465190419.jpg)
 
 ### Hi there 👋, I'm Shane
 #### Computer Science Graduate

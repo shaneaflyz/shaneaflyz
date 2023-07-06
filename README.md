@@ -23,5 +23,5 @@ I have graduated and I'm interested in full-time in any IT related roles which c
 
 <a href="https://linkedin.com/in/shane-aflyz-326597216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shane-aflyz-326597216" height="30" width="40" /></a>
 <a href="https://instagram.com/shaneaflyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaneaflyz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shaneaflyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shaneaflyz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/shaneaflyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shaneaflyz" height="30" width="40" /></a>
 </p>

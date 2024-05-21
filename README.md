@@ -1,19 +1,19 @@
 ![Computer Science Graduate](https://github.com/shaneaflyz/shaneaflyz/blob/main/1625465190419.jpg)
 
-# Shane Aflyz / Computer Science Graduate
+# Shane Aflyz / Fullstack Developer
 
 <img align="right" alt="Coding" width="257" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
 I am an aspiring computer science graduate who enjoys coding! I have strong technical skills and an academic background in programming, networking, and data analysis.
 
-My passion lies in programming software tailored to the backend and exploring different the different languages I can use. I am able to commit strongly to deliver proper software in an organized fashion.
+My passion lies in programming software and exploring different languages I can use. I am able to commit strongly to deliver proper software in an organized fashion.
 
 In my graduate studies, I’ve taken on various leadership roles, including mentoring my peers, student representative of my course and assisting scouts in my free time.
 
 I have graduated and I'm interested in full-time in any IT related roles which can help further develop my skills and asset as I truly am keen on increasing my knowledge. Please feel free to get in touch with me 
 via my socials!
 
-- 🔭 I’m currently working on creating more projects! 
+- 🔭 I’m currently working as a Fullstack Web Developer
 - 📫 How to reach me: shaneaflyz@gmail.com
 
 ## Skills and Experience

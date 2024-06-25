@@ -1,4 +1,4 @@
-![Computer Science Graduate](https://github.com/shaneaflyz/shaneaflyz/blob/main/1625465190419.jpg)
+![Computer Science Graduate](https://github.com/shaneaflyz/shaneaflyz/blob/main/44c7c1f3fbd68b2151c37af5f08198f1.gif)
 
 # Shane Aflyz / Fullstack Developer
 
